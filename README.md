@@ -1,6 +1,6 @@
-# CRUD_Spring_Boot
+# Spring_Boot & Spring Framework
 # Spring Boot(CRUD) (Non JPA and Non Hibernate)
-# Few Questionaire
+# Few Questionaire On Spring
 Q1.Difference betweeen @Controller and @RestController?
 https://www.geeksforgeeks.org/difference-between-controller-and-restcontroller-annotation-in-spring/
 	@Controller
