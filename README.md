@@ -54,7 +54,3 @@ https://www.geeksforgeeks.org/spring-boot-transaction-management-using-transacti
 16.What is inner Bean??
 
 17. How to configure scheduler in spring boot?
-
-18.WHy JPA is used over JDBC?
-
-19.In JPA what are @Entity,@Id,@Column,@Table
